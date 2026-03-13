@@ -1,0 +1,15 @@
+{
+    "name": "@berrigan/ffmpeg-binaries",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        
+    },
+    "dependencies": {
+        "7zip-min": "^3.0.1"
+    }
+}
