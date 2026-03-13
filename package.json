@@ -1,6 +1,6 @@
 {
     "name": "@berrigan/ffmpeg-binaries",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Latest ffmpeg and ffprobe binaries for Windows, Linux and MacOS",
     "license": "MIT",
     "author": "Stanislav Kuznetsov",
