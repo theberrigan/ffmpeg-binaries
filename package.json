@@ -1,18 +1,20 @@
 {
     "name": "@berrigan/ffmpeg-binaries",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Latest ffmpeg and ffprobe binaries for Windows, Linux and MacOS",
-    "license": "ISC",
+    "license": "MIT",
     "author": "Stanislav Kuznetsov",
     "type": "commonjs",
     "main": "src/main.js",
+    "types": "src/main.d.ts",
     "scripts": {
         "postinstall": "node ./src/postinstall.js"
     },
     "files": [
         "src/**/*",
         ".gitignore",
-        "package.json"
+        "package.json",
+        "README.md"
     ],
     "dependencies": {
         "7zip-min": "~3.0.1"
