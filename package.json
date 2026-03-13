@@ -1,9 +1,33 @@
 {
+    "private": false,
     "name": "@berrigan/ffmpeg-binaries",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Latest ffmpeg and ffprobe binaries for Windows, Linux and MacOS",
     "license": "MIT",
-    "author": "Stanislav Kuznetsov",
+    "homepage": "https://github.com/theberrigan/ffmpeg-binaries",
+    "author": {
+        "name": "Stanislav Kuznetsov",
+        "email": "theberrigan@gmail.com",
+        "url": "https://github.com/theberrigan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/theberrigan/ffmpeg-binaries"
+    },
+    "bugs": {
+        "url": "https://github.com/theberrigan/ffmpeg-binaries/issues"
+    },
+    "keywords": [
+        "audio",
+        "h264",
+        "video",
+        "ffmpeg",
+        "binaries",
+        "images",
+        "hevc",
+        "ffprobe",
+        "fluent-ffmpeg"
+    ],
     "type": "commonjs",
     "main": "src/main.js",
     "types": "src/main.d.ts",
